@@ -1,0 +1,13 @@
+// logical NOT (!) to switch a boolean value
+
+let user = false
+
+if (!user) {
+  console.log('you must be logged in to continue')
+}
+
+console.log(true)
+console.log(false)
+
+console.log(!true)
+console.log(!false)
