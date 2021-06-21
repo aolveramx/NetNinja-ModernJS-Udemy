@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log("dom file"),document.querySelector("body");var e=[{name:"shaun",premium:!0},{name:"yoshi",premium:!1},{name:"mario",premium:!1},{name:"chun-li",premium:!0}],m=function(e){return e.filter((function(e){return e.premium}))}(e);console.log(e,m),console.log("test 2")})();
